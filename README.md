@@ -12,9 +12,10 @@
 
 ---
 
-- Skills Gained in this project
-  - Learned various flexbox properties.
-  - Learned about attribute selectors.
+### Skills Gained in this project
+
+- Learned various flexbox properties.
+- Learned about attribute selectors.
 
 ---
 
